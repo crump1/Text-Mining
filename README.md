@@ -7,7 +7,9 @@ Took three classic sci-fi books and put them through a full text analytics worko
 Books:
 
 Twenty Thousand Leagues under the Sea - Jules Verne
+
 The War of the Worlds - H.G. Wells
+
 A Princess of Mars - Edgar Rice Burroughs
 
 Techniques included:
